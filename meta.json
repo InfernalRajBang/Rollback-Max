@@ -1,0 +1,23 @@
+{
+  "repo": "rollback-max",
+  "product": "Rollback Max",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "backup-recovery",
+  "topics": [
+    "rollback",
+    "rollback-windows",
+    "backup-recovery-desktop",
+    "how-to-install-rollback",
+    "rollback-desktop-package",
+    "rollback-workspace",
+    "rollback-pro-tools",
+    "rollback-suite",
+    "zentool-rollback",
+    "rollback-tool-9"
+  ],
+  "site": "zentool.art"
+}
